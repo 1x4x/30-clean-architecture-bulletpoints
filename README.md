@@ -2,6 +2,9 @@
 
 ## 🏛️ Clean Architecture är ett arkitekturmönster som delar upp en applikation i 4 olika lager för att göra koden enklare att underhålla, testa och vidareutveckla.
 
+### 🔁 Dependency Rule är den viktigaste principen och innebär att beroenden alltid ska peka inåt mot systemets kärna, aldrig utåt.
+
+### 💡 Den största fördelen med Clean Architecture är att vi kan byta exempelvis databas eller användargränssnitt utan att behöva ändra systemets centrala affärslogik.
 
 ## 1️⃣ Domain-lagret 🧠 innehåller systemets kärna, såsom affärsregler, entiteter och logik, helt oberoende av externa tekniker.
 
@@ -12,6 +15,4 @@
 ## 4️⃣ Presentation-lagret 🖥️ hanterar användargränssnittet, exempelvis genom ASP.NET Core MVC, Blazor eller Web API.
 
 
-### 🔁 Dependency Rule är den viktigaste principen och innebär att beroenden alltid ska peka inåt mot systemets kärna, aldrig utåt.
 
-### 💡 Den största fördelen med Clean Architecture är att vi kan byta exempelvis databas eller användargränssnitt utan att behöva ändra systemets centrala affärslogik.
