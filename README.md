@@ -1,4 +1,4 @@
-# 30-clean-architecture-bulletpoints
+# Clean Architecture - Bulletpoints
 
 ## Clean Architecture är ett arkitekturmönster som delar upp en applikation i olika lager för att göra koden enklare att underhålla, testa och vidareutveckla.
 
