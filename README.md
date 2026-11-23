@@ -1,0 +1,1 @@
+# 30-clean-architecture-bulletpoints
