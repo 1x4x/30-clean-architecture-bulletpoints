@@ -12,8 +12,6 @@
 
 ## 4 Presentation-lagret hanterar användargränssnittet, exempelvis genom ASP.NET Core MVC, Blazor eller Web API.
 
-Dependency Rule är den viktigaste principen och innebär att beroenden alltid ska peka inåt mot systemets kärna, aldrig utåt.
 
-
-
-Den största fördelen med Clean Architecture är att vi kan byta exempelvis databas eller användargränssnitt utan att behöva ändra systemets centrala affärslogik.
+### Dependency Rule är den viktigaste principen och innebär att beroenden alltid ska peka inåt mot systemets kärna, aldrig utåt.
+### Den största fördelen med Clean Architecture är att vi kan byta exempelvis databas eller användargränssnitt utan att behöva ändra systemets centrala affärslogik.
