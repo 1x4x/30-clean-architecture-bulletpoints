@@ -1,6 +1,6 @@
 # 🧱 Clean Architecture - Bulletpoints
 
-## 🏛️ Clean Architecture är ett arkitekturmönster som delar upp en applikation i olika lager för att göra koden enklare att underhålla, testa och vidareutveckla.
+## 🏛️ Clean Architecture är ett arkitekturmönster som delar upp en applikation i 4 olika lager för att göra koden enklare att underhålla, testa och vidareutveckla.
 
 
 ## 1️⃣ Domain-lagret 🧠 innehåller systemets kärna, såsom affärsregler, entiteter och logik, helt oberoende av externa tekniker.
